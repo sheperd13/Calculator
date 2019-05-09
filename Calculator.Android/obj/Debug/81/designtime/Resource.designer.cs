@@ -113,6 +113,7 @@ namespace Calculator.Droid
 			global::Xamarin.Essentials.Resource.Style.TextAppearance_Compat_Notification_Title = global::Calculator.Droid.Resource.Style.TextAppearance_Compat_Notification_Title;
 			global::Xamarin.Essentials.Resource.Style.Widget_Compat_NotificationActionContainer = global::Calculator.Droid.Resource.Style.Widget_Compat_NotificationActionContainer;
 			global::Xamarin.Essentials.Resource.Style.Widget_Compat_NotificationActionText = global::Calculator.Droid.Resource.Style.Widget_Compat_NotificationActionText;
+			global::Xamarin.Essentials.Resource.Xml.xamarin_essentials_fileprovider_file_paths = global::Calculator.Droid.Resource.Xml.xamarin_essentials_fileprovider_file_paths;
 			global::Xamarin.Essentials.Resource.Styleable.FontFamily = global::Calculator.Droid.Resource.Styleable.FontFamily;
 			global::Xamarin.Essentials.Resource.Styleable.FontFamily_fontProviderAuthority = global::Calculator.Droid.Resource.Styleable.FontFamily_fontProviderAuthority;
 			global::Xamarin.Essentials.Resource.Styleable.FontFamily_fontProviderCerts = global::Calculator.Droid.Resource.Styleable.FontFamily_fontProviderCerts;
@@ -2117,17 +2118,17 @@ namespace Calculator.Droid
 			// aapt resource value: 0x7F01000E
 			public const int design_snackbar_out = 2130771982;
 			
-			// aapt resource value: 0x7F070018
-			public const int EnterFromLeft = 2131165208;
+			// aapt resource value: 0x7F080018
+			public const int EnterFromLeft = 2131230744;
 			
-			// aapt resource value: 0x7F070019
-			public const int EnterFromRight = 2131165209;
+			// aapt resource value: 0x7F080019
+			public const int EnterFromRight = 2131230745;
 			
-			// aapt resource value: 0x7F070020
-			public const int ExitToLeft = 2131165216;
+			// aapt resource value: 0x7F080020
+			public const int ExitToLeft = 2131230752;
 			
-			// aapt resource value: 0x7F070021
-			public const int ExitToRight = 2131165217;
+			// aapt resource value: 0x7F080021
+			public const int ExitToRight = 2131230753;
 			
 			// aapt resource value: 0x7F01000F
 			public const int tooltip_enter = 2130771983;
@@ -9483,6 +9484,22 @@ namespace Calculator.Droid
 			}
 			
 			private Styleable()
+			{
+			}
+		}
+		
+		public partial class Xml
+		{
+			
+			// aapt resource value: 0x7F070002
+			public const int xamarin_essentials_fileprovider_file_paths = 2131165186;
+			
+			static Xml()
+			{
+				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
+			}
+			
+			private Xml()
 			{
 			}
 		}

@@ -10,4 +10,4 @@ C:\Users\shepe\source\repos\Calculator\Calculator\obj\Debug\netstandard2.0\XamlC
 C:\Users\shepe\source\repos\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.dll
 C:\Users\shepe\source\repos\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.pdb
 C:\Users\shepe\source\repos\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.csprojAssemblyReference.cache
-C:\Users\shepe\source\repos\Calculator\Calculator\obj\Debug\netstandard2.0\CalculatorView.xaml.g.cs
+C:\Users\shepe\source\repos\Calculator\Calculator\obj\Debug\netstandard2.0\Views\CalculatorView.xaml.g.cs
